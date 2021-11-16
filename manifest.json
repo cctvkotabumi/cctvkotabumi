@@ -1,0 +1,37 @@
+{
+  "name": "CCTV Kotabumi",
+  "short_name": "CCTV Kotabumi",
+  "description": "Pusat Penjualan, Pemasangan dan Perbaikan CCTV Terbesar, Terlengkap dan Terpercaya",
+  "icons": [
+    {
+      "src": "images/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "background_color": "#D5E0EB",
+  "theme_color": "#D5E0EB",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "https://cctvkotabumi.com/",
+  "scope": "https://cctvkotabumi.com/"
+}
